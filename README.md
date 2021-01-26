@@ -11,27 +11,27 @@ ImMeanBulk.txt, ImMedBulk.txt and ImStdBulk.txt contain image mean, image median
 
 Input <br>
 -Data folder<br>
---Folder with image sequence 1
---Folder with image sequence 2
---Folder with image sequence 3
-...
---Folder with image sequence n
+--Folder with image sequence 1<br>
+--Folder with image sequence 2<br>
+--Folder with image sequence 3<br>
+...<br>
+--Folder with image sequence n<br>
 
 Output<br>
 Path name_Data folder<br>
---Folder with image sequence 1
----bin  
---Folder with image sequence 2
----bin 
---Folder with image sequence 3
----bin 
-...
---Folder with image sequence n
----bin
+--Folder with image sequence 1<br>
+---bin  <br>
+--Folder with image sequence 2<br>
+---bin <br>
+--Folder with image sequence 3<br>
+---bin <br>
+...<br>
+--Folder with image sequence n<br>
+---bin<br>
 
 <b>Processing parameters</b><br>
 There is only treshold to be set for processing. Threshold is defined as a fraction of mean and set by a coeficient which must be non-zero positive integer. The default parameter is 3.14 (Pi). The other parameters is listed in the coments withing script.
 
 
 <b>Results</b><br>
-The results is an area of the gap in a middle of gap in a pixel. The pixel counts need to be further converted to metric units according to user microscope scale. 
+The results is a pixel count of area gap in a middle of image. The user then can convert pixel counts to metric units according to microscope scale. 
