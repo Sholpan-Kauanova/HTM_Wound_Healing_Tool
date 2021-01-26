@@ -30,7 +30,7 @@ Path name_Data folder<br>
 ---bin<br>
 
 <b>Processing parameters</b><br>
-There is only treshold to be set for processing. Threshold is defined as a fraction of mean and set by a coeficient which must be non-zero positive integer. The default parameter is 3.14 (Pi). The other parameters is listed in the coments withing script.
+There is only treshold to be set for processing. Threshold is defined as a fraction of mean and set by a coeficient which must be non-zero positive integer. The default parameter is 3.14 (Pi). The other parameters is listed in the coments within the script.
 
 
 <b>Results</b><br>
