@@ -37,7 +37,7 @@ There is only treshold to be set for processing. Threshold is defined as a fract
 The results is a pixel count of area gap in a middle of image. The user then can convert pixel counts to metric units according to microscope scale. 
 
 Examples of processing <br>
-Images are obtained from TScratch test set<br>
+Images are obtained from TScratch test set, 8-bit grayscale, objective magnification: NA, detector: NA<br>
 <img src="https://user-images.githubusercontent.com/35289663/106069474-925d8a80-60d0-11eb-9a98-65dcd7941119.png" width="200" height="150">
 <img src="https://user-images.githubusercontent.com/35289663/106069475-92f62100-60d0-11eb-8038-ce24c157fe45.png" width="200" height="150">
 <img src="https://user-images.githubusercontent.com/35289663/106069476-92f62100-60d0-11eb-90e6-e891e6ead4f2.png" width="200" height="150"><br>
@@ -47,7 +47,7 @@ set of binary masks<br>
 <img src="https://user-images.githubusercontent.com/35289663/106069480-938eb780-60d0-11eb-918e-e2e30929b6aa.jpg" width="200" height="150"><br>
 set of wound contour overlays<br>
 
-Images are obtained from WH_Macro_tool test set<br>
+Images are obtained from WH_Macro_tool test set, 16-bit grayscale, objective magnification: NA, detector: NA<br>
 <img src="https://user-images.githubusercontent.com/35289663/107214006-ee4dda80-6a11-11eb-8392-c5f6d6e8a3e7.png" width="200" height="150">
 <img src="https://user-images.githubusercontent.com/35289663/107214007-eee67100-6a11-11eb-9160-7323e9b159ce.png" width="200" height="150">
 <img src="https://user-images.githubusercontent.com/35289663/107212613-e2f9af80-6a0f-11eb-93d2-c04f687203cf.png" width="200" height="150"><br>
