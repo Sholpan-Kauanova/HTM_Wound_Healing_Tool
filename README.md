@@ -1,5 +1,5 @@
 # HTM Wound_Healing_Tool
-This is Hight-Throughput Microscopy Wound healing tool to perform an automatic segmentation and recognition of empty gap for in vitro Wound healing a.k.a "Scratch assay". This tool was updated under terms of Ministry of Education of Republic of Kazakhstan Grant # FDCRG 240919FD3937 (Nazarbayev University) to Ivan Vorobyev.
+This is Hight-Throughput Microscopy Wound healing tool to perform an automatic segmentation and recognition of empty gap for in vitro Wound healing a.k.a "Scratch assay". This tool is supported under terms of Ministry of Education of Republic of Kazakhstan Grant # FDCRG 240919FD3937 (Nazarbayev University) to Ivan Vorobyev.
 
 The tool requires MatLab2014 or higher with Simulink, Image Processing and Mapping Toolbox to run. 
 
